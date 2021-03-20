@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/autocamp/static/css/main.5af75700.chunk.css",
-    "main.js": "/autocamp/static/js/main.245b81fc.chunk.js",
-    "main.js.map": "/autocamp/static/js/main.245b81fc.chunk.js.map",
-    "runtime-main.js": "/autocamp/static/js/runtime-main.e5a0c58f.js",
-    "runtime-main.js.map": "/autocamp/static/js/runtime-main.e5a0c58f.js.map",
-    "static/js/2.c06a580a.chunk.js": "/autocamp/static/js/2.c06a580a.chunk.js",
-    "static/js/2.c06a580a.chunk.js.map": "/autocamp/static/js/2.c06a580a.chunk.js.map",
-    "index.html": "/autocamp/index.html",
-    "static/css/main.5af75700.chunk.css.map": "/autocamp/static/css/main.5af75700.chunk.css.map",
-    "static/js/2.c06a580a.chunk.js.LICENSE.txt": "/autocamp/static/js/2.c06a580a.chunk.js.LICENSE.txt",
-    "static/media/home01.214a85a7.jpg": "/autocamp/static/media/home01.214a85a7.jpg",
-    "static/media/home02.cfb10e33.jpg": "/autocamp/static/media/home02.cfb10e33.jpg",
-    "static/media/home03.aa4409a1.jpg": "/autocamp/static/media/home03.aa4409a1.jpg",
-    "static/media/logo.b523e431.svg": "/autocamp/static/media/logo.b523e431.svg"
+    "main.css": "/pocetna/static/css/main.5af75700.chunk.css",
+    "main.js": "/pocetna/static/js/main.245b81fc.chunk.js",
+    "main.js.map": "/pocetna/static/js/main.245b81fc.chunk.js.map",
+    "runtime-main.js": "/pocetna/static/js/runtime-main.2c5f8ccc.js",
+    "runtime-main.js.map": "/pocetna/static/js/runtime-main.2c5f8ccc.js.map",
+    "static/js/2.b1d80f5d.chunk.js": "/pocetna/static/js/2.b1d80f5d.chunk.js",
+    "static/js/2.b1d80f5d.chunk.js.map": "/pocetna/static/js/2.b1d80f5d.chunk.js.map",
+    "index.html": "/pocetna/index.html",
+    "static/css/main.5af75700.chunk.css.map": "/pocetna/static/css/main.5af75700.chunk.css.map",
+    "static/js/2.b1d80f5d.chunk.js.LICENSE.txt": "/pocetna/static/js/2.b1d80f5d.chunk.js.LICENSE.txt",
+    "static/media/home01.214a85a7.jpg": "/pocetna/static/media/home01.214a85a7.jpg",
+    "static/media/home02.cfb10e33.jpg": "/pocetna/static/media/home02.cfb10e33.jpg",
+    "static/media/home03.aa4409a1.jpg": "/pocetna/static/media/home03.aa4409a1.jpg",
+    "static/media/logo.b523e431.svg": "/pocetna/static/media/logo.b523e431.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e5a0c58f.js",
-    "static/js/2.c06a580a.chunk.js",
+    "static/js/runtime-main.2c5f8ccc.js",
+    "static/js/2.b1d80f5d.chunk.js",
     "static/css/main.5af75700.chunk.css",
     "static/js/main.245b81fc.chunk.js"
   ]
