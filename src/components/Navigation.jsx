@@ -24,11 +24,11 @@ const Navigation = ({toggle}) => {
                     <FaBars/>
                 </MobileIcon>
                 <NavMenu>
-                    <NavLogo to="/pocetna">
+                    <NavLogo to="/">
                         <img src={logo} alt="Logo"/>
                     </NavLogo>
                     <NavItem>
-                        <NavLink activeClassName="active" className="navlink"  to="/pocetna">
+                        <NavLink activeClassName="active" className="navlink"  to="/">
                             Početna
                         </NavLink>
                     </NavItem>

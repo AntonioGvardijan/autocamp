@@ -22,7 +22,7 @@ function App() {
     <Router>
       <MobileNavigation isOpen={isOpen} toggle={toggle}/>
       <Navigation toggle={toggle}/>
-      <Route path="/pocetna" component={HomePage} />
+      <Route path="/" component={HomePage} />
       <Route path="/ponuda" component={Ponuda} />
       <Route path="/galerija" component={Galerija} />
       <Route path="/cjenik" component={Cjenik} />

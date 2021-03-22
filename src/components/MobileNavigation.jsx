@@ -17,7 +17,7 @@ const MobileNavigation = ({isOpen, toggle}) => {
                 </Icon>
                 <SidebarWrapper>
                     <SidebarMenu>
-                        <NavLink className="navlink" to="/pocetna" onClick={toggle}>Početna</NavLink>
+                        <NavLink className="navlink" to="/" onClick={toggle}>Početna</NavLink>
 
                         <NavLink className="navlink" to="/ponuda" onClick={toggle}>Ponuda</NavLink>
 
